@@ -70,7 +70,7 @@ pylint-plugin-utils==0.6
 pyOpenSSL==17.5.0
 pyrsistent==0.15.6
 pyserial==3.4
-python-apt==1.6.4
+
 python-dateutil==1.5
 python-debian==0.1.32
 pytz==2019.3
